@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+
+div{
+    width: 75%;
+    text-align: center;
+}
+
+div img{
+    width: 200px;
+}
+
+footer{
+    text-align: center;
+}
+  
+  

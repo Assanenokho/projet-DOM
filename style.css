@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+div{
+    width: 75%;
+}
+
+div img{
+    width: 100px;
+    padding: 30px;
+}
+
+
+.structure {
+    background-color: rgb(231, 245, 245);
+}
+.structure h1{
+    text-align: center;
+}
+
+table{
+    color: blue;
+
+}
+
+.thead  {
+    display: flex;
+    align-items: center; /* or "flex-start" or "flex-end" depending on the desired alignment */
+  }
+  
+
+footer{
+    text-align: center;
+    background-color: gray;
+}
+
+  
+  
+  
+  
